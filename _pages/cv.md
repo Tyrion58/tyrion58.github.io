@@ -21,7 +21,6 @@ Work experience
 
 * Summer 2023 ~ Now: Research Assistant
   * University of Hong Kong
-  * Duties included: Tagging issues
   * Supervisor: Professor Difan Zou
 
 Publications
