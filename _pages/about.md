@@ -22,7 +22,7 @@ My name is Tunyu Zhang (张焞宇), a first-year Ph.D. student in the Department
 My research interests include large language models reasoning, diffusion language models, uncertainty estimation, and efficient training of generative models.
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉Our paper *TokUR* on Bayesian LLM reasoning was accepted to the [NeurIPS 2025 Workshop FoRLM](https://reasoning-workshop.github.io/)!
+- *2025.08*: &nbsp;🎉🎉 Our paper *TokUR* on Bayesian LLM reasoning was accepted to the [NeurIPS 2025 Workshop FoRLM](https://reasoning-workshop.github.io/)!
 - *2025.08*: &nbsp;🎉🎉 I will join Professor Dimitris Metaxas's group to pursue my PhD degree at Rutgers.
 
 # 📝 Publications 
@@ -54,6 +54,9 @@ Hengyi Wang, Haizhou Shi, Shiwei Tan, Weiyi Qin, Wenyuan Wang, **Tunyu Zhang**, 
 </div>
 </div>
 
+## Complex Networks
+- <div class="badge">EPJP 2022</div> Study of nonequilibrium phase transitions mechanisms in exclusive network and node model of heterogeneous assignment based on real experimental data of KIF3AC and KIF3CC motors
+- <div class="badge">IJMP 2024</div> Physical mechanisms of exit dynamics in microchannels of nonequilibrium transport systems
 
 
 
