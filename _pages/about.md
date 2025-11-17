@@ -22,6 +22,7 @@ My name is Tunyu Zhang (张焞宇), a first-year Ph.D. student in the Department
 My research interests include large language models reasoning, diffusion language models, uncertainty estimation, and efficient training of generative models.
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉Our paper *TokUR* on Bayesian LLM reasoning was accepted to the [NeurIPS 2025 Workshop FoRLM](https://reasoning-workshop.github.io/)!
 - *2025.08*: &nbsp;🎉🎉 I will join Professor Dimitris Metaxas's group to pursue my PhD degree at Rutgers.
 
 # 📝 Publications 
@@ -46,6 +47,8 @@ My research interests include large language models reasoning, diffusion languag
 
 [Multimodal needle in a haystack: Benchmarking long-context capability of multimodal large language models]([https://arxiv.org/abs/2505.11737](https://aclanthology.org/2025.naacl-long.166.pdf))  
 Hengyi Wang, Haizhou Shi, Shiwei Tan, Weiyi Qin, Wenyuan Wang, **Tunyu Zhang**, Akshay Nambi, Tanuja Ganu, Hao Wang 
+[Project](https://github.com/Wang-ML-Lab/multimodal-needle-in-a-haystack)
+- A long-context benchmark for Multi-modal LLM
 <!-- <strong><span class='show_paper_citations' data='y3st15YAAAAJ:tokur'></span></strong>   -->
 </div>
 </div>
@@ -64,10 +67,8 @@ Hengyi Wang, Haizhou Shi, Shiwei Tan, Weiyi Qin, Wenyuan Wang, **Tunyu Zhang**, 
 # 📖 Educations
 - *2021.09 - 2025.06*, Univeristy of Science and Technology of China, Hefei.
 
-<!--# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 # 💻 Internships
-- *2023.06 - 2024.05*, Research Assistant at University of Hong Kong (HKU)
 - *2024.06 - 2025.08*, Research Assistant at Rutgers University
+- *2023.06 - 2024.05*, Research Assistant at University of Hong Kong (HKU)
+
