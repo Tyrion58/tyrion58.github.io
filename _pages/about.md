@@ -26,7 +26,7 @@ My research interests include large language models reasoning, diffusion languag
 - *2025.08*: &nbsp;🎉🎉 I will join Professor Dimitris Metaxas's group to pursue my PhD degree at Rutgers.
 
 # 📝 Publications 
-“*” denotes equal contribution
+where “*” denotes equal contribution
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/tokur.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
