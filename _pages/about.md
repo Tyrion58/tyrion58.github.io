@@ -45,7 +45,7 @@ where “*” denotes equal contribution
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/mmneedle.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multimodal needle in a haystack: Benchmarking long-context capability of multimodal large language models]([https://arxiv.org/abs/2505.11737](https://aclanthology.org/2025.naacl-long.166.pdf))  
+[Multimodal needle in a haystack: Benchmarking long-context capability of multimodal large language models](https://arxiv.org/abs/2505.11737](https://aclanthology.org/2025.naacl-long.166.pdf)  
 Hengyi Wang, Haizhou Shi, Shiwei Tan, Weiyi Qin, Wenyuan Wang, **Tunyu Zhang**, Akshay Nambi, Tanuja Ganu, Hao Wang 
 
 [**Project**](https://github.com/Wang-ML-Lab/multimodal-needle-in-a-haystack)
@@ -55,8 +55,8 @@ Hengyi Wang, Haizhou Shi, Shiwei Tan, Weiyi Qin, Wenyuan Wang, **Tunyu Zhang**, 
 </div>
 
 ## Complex Networks
-- <div class="badge">EPJP 2022</div> Study of nonequilibrium phase transitions mechanisms in exclusive network and node model of heterogeneous assignment based on real experimental data of KIF3AC and KIF3CC motors
-- <div class="badge">IJMP 2024</div> Physical mechanisms of exit dynamics in microchannels of nonequilibrium transport systems
+- <div class='paper-box'><div class="badge">EPJP 2022</div> [Study of nonequilibrium phase transitions mechanisms in exclusive network and node model of heterogeneous assignment based on real experimental data of KIF3AC and KIF3CC motors]()</div>
+- <div class='paper-box'><div class="badge">IJMP 2024</div> Physical mechanisms of exit dynamics in microchannels of nonequilibrium transport systems</div>
 
 
 
