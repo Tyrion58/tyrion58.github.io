@@ -47,7 +47,8 @@ My research interests include large language models reasoning, diffusion languag
 
 [Multimodal needle in a haystack: Benchmarking long-context capability of multimodal large language models]([https://arxiv.org/abs/2505.11737](https://aclanthology.org/2025.naacl-long.166.pdf))  
 Hengyi Wang, Haizhou Shi, Shiwei Tan, Weiyi Qin, Wenyuan Wang, **Tunyu Zhang**, Akshay Nambi, Tanuja Ganu, Hao Wang 
-[Project](https://github.com/Wang-ML-Lab/multimodal-needle-in-a-haystack)
+
+[**Project**](https://github.com/Wang-ML-Lab/multimodal-needle-in-a-haystack)
 - A long-context benchmark for Multi-modal LLM
 <!-- <strong><span class='show_paper_citations' data='y3st15YAAAAJ:tokur'></span></strong>   -->
 </div>
