@@ -65,7 +65,7 @@ Hengyi Wang, Haizhou Shi, Shiwei Tan, Weiyi Qin, Wenyuan Wang, **Tunyu Zhang**, 
 
 - **2022.12** Second Prize, Asia and Pacific Mathematical Contest in Modeling (APMCM)
 
-- **2024.06** Outstanding Undergraduate Thesis Award, University of Science and Technology of China
+- **2025.06** Outstanding Undergraduate Thesis Award, University of Science and Technology of China
 
 
 # 📖 Educations
