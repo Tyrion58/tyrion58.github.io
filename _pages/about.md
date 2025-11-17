@@ -22,7 +22,7 @@ My name is Tunyu Zhang (张焞宇), a first-year Ph.D. student in the Department
 My research interests include large language models reasoning, diffusion language models, uncertainty estimation, and efficient training of generative models.
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 Our paper *TokUR* on Bayesian LLM reasoning was accepted to the [NeurIPS 2025 Workshop FoRLM](https://reasoning-workshop.github.io/)!
+- *2025.09*: &nbsp;🎉🎉 Our paper *TokUR* on Bayesian LLM reasoning was accepted to the [NeurIPS 2025 Workshop FoRLM](https://reasoning-workshop.github.io/)!
 - *2025.08*: &nbsp;🎉🎉 I will join Professor Dimitris Metaxas's group to pursue my PhD degree at Rutgers.
 
 # 📝 Publications 
