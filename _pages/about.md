@@ -40,7 +40,7 @@ My research interests include large language models reasoning, diffusion languag
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/tokur.png' alt="TokUR" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/tokur.png' alt="TokUR" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TokUR: Token-Level Uncertainty Estimation for Large Language Model Reasoning](https://arxiv.org/abs/2505.11737)  
