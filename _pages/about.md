@@ -22,13 +22,14 @@ My name is Tunyu Zhang (张焞宇), a first-year Ph.D. student in the Department
 My research interests include large language models reasoning, diffusion language models, uncertainty estimation, and efficient training of generative models.
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 Our paper *TokUR* was accepted to ICLR 2026
 - *2025.09*: &nbsp;🎉🎉 Our paper *TokUR* on Bayesian LLM reasoning was accepted to the [NeurIPS 2025 Workshop FoRLM](https://reasoning-workshop.github.io/)!
 - *2025.08*: &nbsp;🎉🎉 I will join Professor Dimitris Metaxas's group to pursue my PhD degree at Rutgers.
 
 # 📝 Publications 
 where “*” denotes equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/tokur.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/tokur.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TokUR: Token-Level Uncertainty Estimation for Large Language Model Reasoning](https://arxiv.org/abs/2505.11737)  
@@ -48,7 +49,7 @@ where “*” denotes equal contribution
 [Multimodal needle in a haystack: Benchmarking long-context capability of multimodal large language models](https://aclanthology.org/2025.naacl-long.166.pdf)  
 Hengyi Wang, Haizhou Shi, Shiwei Tan, Weiyi Qin, Wenyuan Wang, **Tunyu Zhang**, Akshay Nambi, Tanuja Ganu, Hao Wang 
 
-[**Project**](https://github.com/Wang-ML-Lab/multimodal-needle-in-a-haystack)
+[**Paper**](https://aclanthology.org/2025.naacl-long.166.pdf) | [**Code**](https://github.com/Wang-ML-Lab/multimodal-needle-in-a-haystack)
 - A long-context benchmark for Multi-modal LLM
 <!-- <strong><span class='show_paper_citations' data='y3st15YAAAAJ:tokur'></span></strong>   -->
 </div>
@@ -61,11 +62,10 @@ Hengyi Wang, Haizhou Shi, Shiwei Tan, Weiyi Qin, Wenyuan Wang, **Tunyu Zhang**, 
 
 
 # 🎖 Honors and Awards
+- **2025.06** Outstanding Undergraduate Thesis Award, University of Science and Technology of China
+- **2022.12** Second Prize, Asia and Pacific Mathematical Contest in Modeling (APMCM)
 - **2022.05** Outstanding Student Scholarship (Gold Award), University of Science and Technology of China
 
-- **2022.12** Second Prize, Asia and Pacific Mathematical Contest in Modeling (APMCM)
-
-- **2025.06** Outstanding Undergraduate Thesis Award, University of Science and Technology of China
 
 
 # 📖 Educations
