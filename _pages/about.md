@@ -29,7 +29,7 @@ My research interests include large language models reasoning, diffusion languag
 # 📝 Publications 
 where “*” denotes equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/t3d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/t3d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [T3D: Trajectory Self-Distillation via Direct Discriminative Optimization for Efficient Diffusion Language Models](https://arxiv.org/abs/2602.12262)  
@@ -65,7 +65,8 @@ where “*” denotes equal contribution
 Hengyi Wang, Haizhou Shi, Shiwei Tan, Weiyi Qin, Wenyuan Wang, **Tunyu Zhang**, Akshay Nambi, Tanuja Ganu, Hao Wang 
 
 [**Paper**](https://aclanthology.org/2025.naacl-long.166.pdf) | [**Code**](https://github.com/Wang-ML-Lab/multimodal-needle-in-a-haystack)
-- A long-context benchmark for Multi-modal LLM
+- MMNeedle provides a systematic evaluation framework for long-context multimodal understanding.
+- It enables controlled benchmarking of retrieval and reasoning over large visual contexts, and reveals robustness challenges in current multimodal LLMs.
 <!-- <strong><span class='show_paper_citations' data='y3st15YAAAAJ:tokur'></span></strong>   -->
 </div>
 </div>
