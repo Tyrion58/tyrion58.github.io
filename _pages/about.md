@@ -37,7 +37,7 @@ where “*” denotes equal contribution
 <!-- <strong><span class='show_paper_citations' data='XXXX'></span></strong>   -->
 [**Paper**](https://arxiv.org/abs/2602.12262) | [**Code**](https://github.com/Tyrion58/T3D)
 - **T3D** is a training framework for **efficient diffusion language models** via *trajectory self-distillation*.  
-- T3D introduces **Direct Discriminative Optimization (DDO)** to replace mode-covering objectives with a mode-seeking training signal.  
+- T3D uses **Direct Discriminative Optimization (DDO)** to replace mode-covering objectives with a mode-seeking training signal.  
 - The framework enables **aggressive few-step generation** while preserving full-step diffusion capabilities and reasoning performance.
 
 </div>
