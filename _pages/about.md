@@ -35,7 +35,7 @@ where “*” denotes equal contribution
 [T3D: Trajectory Self-Distillation via Direct Discriminative Optimization for Efficient Diffusion Language Models](https://arxiv.org/abs/2602.12262)  
 **Tunyu Zhang\***, Xinxi Zhang\*, Ligong Han, Haizhou Shi, Xiaoxiao He, Zhuowei Li, Hao Wang, Kai Xu, Akash Srivastava, Hao Wang, Vladimir Pavlovic, Dimitris Metaxas  
 <!-- <strong><span class='show_paper_citations' data='XXXX'></span></strong>   -->
-[**Paper**](https://arxiv.org/abs/2602.12262) | [**Code**](https://github.com/Tyrion58/T3D) | [**Slides**](__files/t3d_talk.pdf)
+[**Paper**](https://arxiv.org/abs/2602.12262) | [**Code**](https://github.com/Tyrion58/T3D) | [**Slides**](files/t3d_talk.pdf)
 - **T3D** is a training framework for **efficient diffusion language models** via *trajectory self-distillation*.  
 - T3D uses **Direct Discriminative Optimization (DDO)** to replace mode-covering objectives with a mode-seeking training signal.  
 - The framework enables **aggressive few-step generation** while preserving full-step diffusion capabilities and reasoning performance.
