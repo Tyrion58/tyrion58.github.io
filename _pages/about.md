@@ -89,7 +89,7 @@ Hengyi Wang, Haizhou Shi, Shiwei Tan, Weiyi Qin, Wenyuan Wang, **Tunyu Zhang**, 
 
 
 # 💬 Invited Talks
-- *2026.02*, Few-Step Diffusion Language Models (Red Hat AI Innovation Team, Random Sample Talk) [**Slides**](__files/t3d_talk.pdf). 
+- *2026.02*, Few-Step Diffusion Language Models (Red Hat AI Innovation Team, Random Sample Talk) [**Slides**](files/t3d_talk.pdf). 
 
 
 # 💻 Internships
