@@ -29,13 +29,13 @@ My research interests include large language models reasoning, diffusion languag
 # 📝 Publications 
 where “*” denotes equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/t3d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/projects/t3d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [T3D: Trajectory Self-Distillation via Direct Discriminative Optimization for Efficient Diffusion Language Models](https://arxiv.org/abs/2602.12262)  
 **Tunyu Zhang\***, Xinxi Zhang\*, Ligong Han, Haizhou Shi, Xiaoxiao He, Zhuowei Li, Hao Wang, Kai Xu, Akash Srivastava, Hao Wang, Vladimir Pavlovic, Dimitris Metaxas  
 <!-- <strong><span class='show_paper_citations' data='XXXX'></span></strong>   -->
-[**Paper**](https://arxiv.org/abs/2602.12262) | [**Code**](https://github.com/Tyrion58/T3D)
+[**Paper**](https://arxiv.org/abs/2602.12262) | [**Code**](https://github.com/Tyrion58/T3D) | [**Slides**](__files/t3d_talk.pdf)
 - **T3D** is a training framework for **efficient diffusion language models** via *trajectory self-distillation*.  
 - T3D uses **Direct Discriminative Optimization (DDO)** to replace mode-covering objectives with a mode-seeking training signal.  
 - The framework enables **aggressive few-step generation** while preserving full-step diffusion capabilities and reasoning performance.
@@ -44,7 +44,7 @@ where “*” denotes equal contribution
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/tokur.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/projects/tokur.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TokUR: Token-Level Uncertainty Estimation for Large Language Model Reasoning](https://arxiv.org/abs/2505.11737)  
@@ -58,7 +58,7 @@ where “*” denotes equal contribution
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/mmneedle.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/projects/mmneedle.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multimodal needle in a haystack: Benchmarking long-context capability of multimodal large language models](https://aclanthology.org/2025.naacl-long.166.pdf)  
@@ -86,6 +86,10 @@ Hengyi Wang, Haizhou Shi, Shiwei Tan, Weiyi Qin, Wenyuan Wang, **Tunyu Zhang**, 
 
 # 📖 Educations
 - *2021.09 - 2025.06*, Univeristy of Science and Technology of China, Hefei.
+
+
+# 💬 Invited Talks
+- *2026.02*, Few-Step Diffusion Language Models (Red Hat AI Innovation Team, Random Sample Talk) [**Slides**](__files/t3d_talk.pdf). 
 
 
 # 💻 Internships
