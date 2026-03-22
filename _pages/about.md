@@ -50,7 +50,7 @@ where “*” denotes equal contribution
 [TokUR: Token-Level Uncertainty Estimation for Large Language Model Reasoning](https://arxiv.org/abs/2505.11737)  
 **Tunyu Zhang\***, Haizhou Shi\*, Yibin Wang, Hengyi Wang, Xiaoxiao He, Zhuowei Li, Haoxian Chen, Ligong Han, Kai Xu, Huan Zhang, Dimitris Metaxas, Hao Wang  
 <!-- <strong><span class='show_paper_citations' data='y3st15YAAAAJ:tokur'></span></strong>   -->
-[**Paper**](https://arxiv.org/abs/2505.11737)
+[**Paper**](https://arxiv.org/abs/2505.11737) | [**Code**](https://github.com/Wang-ML-Lab/TokUR)
 - We propose **TokUR**, a framework for *token-level uncertainty estimation* tailored for **LLM reasoning**.  
 - TokUR introduces a low-rank stochastic perturbation mechanism to approximate predictive distributions efficiently.  
 - The framework enables more reliable multi-step reasoning, and provides uncertainty-aware signals for downstream tasks.
