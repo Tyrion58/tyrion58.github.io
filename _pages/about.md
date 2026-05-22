@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Tunyu Zhang (张焞宇), a first-year Ph.D. student in the Department of Computer Science at Rutgers University, advised by Prof.[DIMITRIS N. METAXAS](https://people.cs.rutgers.edu/~dnm/). Previously, I obtained my bachelor degree at the University of Science and Technology of China (USTC) in 2025. 
-
-My research interests include large language models reasoning, diffusion language models, uncertainty estimation, and efficient training of generative models.
+My name is Tunyu Zhang (张焞宇). I am a first-year Ph.D. student in the Department of Computer Science at Rutgers University. My research focuses on trustworthy and efficient language model systems, including uncertainty estimation in LLM reasoning and efficient decoding for diffusion language models. Previously, I obtained my bachelor’s degree from the University of Science and Technology of China (USTC) in 2025.
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 Our paper *TokUR* was accepted to ICLR 2026
