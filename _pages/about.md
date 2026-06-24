@@ -20,9 +20,10 @@ redirect_from:
 My name is Tunyu Zhang (张焞宇). I am a first-year Ph.D. student in the Department of Computer Science at Rutgers University. My research focuses on trustworthy and efficient language model systems, including uncertainty estimation in LLM reasoning and efficient decoding for diffusion language models. Previously, I obtained my bachelor’s degree from the University of Science and Technology of China (USTC) in 2025.
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 Our paper *TokUR* was accepted to ICLR 2026
-- *2025.09*: &nbsp;🎉🎉 Our paper *TokUR* on Bayesian LLM reasoning was accepted to the [NeurIPS 2025 Workshop FoRLM](https://reasoning-workshop.github.io/)!
-- *2025.08*: &nbsp;🎉🎉 I will join Professor Dimitris Metaxas's group to pursue my PhD degree at Rutgers.
+- *2026.06*: &nbsp;🚀 I will join Red Hat AI Innovation <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" alt="Red Hat logo" style="height: 1em; vertical-align: -0.2em; margin: 0 3px;">  as a Research Intern.
+- *2026.01*: &nbsp;🎉 Our paper *TokUR* was accepted to ICLR 2026
+- *2025.09*: &nbsp;🎉 Our paper *TokUR* on Bayesian LLM reasoning was accepted to the [NeurIPS 2025 Workshop FoRLM](https://reasoning-workshop.github.io/)!
+- *2025.08*: &nbsp;🎉 I will join Professor Dimitris Metaxas's group to pursue my PhD degree at Rutgers.
 
 # 📝 Publications 
 where “*” denotes equal contribution
