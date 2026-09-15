@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Tunyu Zhang (张焞宇). I am a first-year Ph.D. student in the Department of Computer Science at Rutgers University. My research focuses on trustworthy and efficient language model systems, including uncertainty estimation in LLM reasoning and efficient decoding for diffusion language models. Previously, I obtained my bachelor’s degree from the University of Science and Technology of China (USTC) in 2025.
+My name is Tunyu Zhang (张焞宇). I am a second-year Ph.D. student in the Department of Computer Science at Rutgers University, advised by Professor [Dimitris Metaxas](https://www.cs.rutgers.edu/~dnm/). I am also fortunate to collaborate with Professor [Hao Wang](http://www.wanghao.in/). My research focuses on trustworthy and efficient language model systems, including uncertainty estimation in LLM reasoning and efficient decoding for diffusion language models. Previously, I obtained my bachelor’s degree from the University of Science and Technology of China (USTC) in 2025.
 
 # 🔥 News
-- *2026.06*: &nbsp;🚀 I will join Red Hat AI Innovation <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" alt="Red Hat logo" style="height: 1em; vertical-align: -0.2em; margin: 0 3px;">  as a Research Intern.
+- *2026.07*: &nbsp;🚀 I joined Red Hat AI Innovation <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" alt="Red Hat logo" style="height: 1em; vertical-align: -0.2em; margin: 0 3px;">  as a Research Intern.
 - *2026.01*: &nbsp;🎉 Our paper *TokUR* was accepted to ICLR 2026
 - *2025.09*: &nbsp;🎉 Our paper *TokUR* on Bayesian LLM reasoning was accepted to the [NeurIPS 2025 Workshop FoRLM](https://reasoning-workshop.github.io/)!
 - *2025.08*: &nbsp;🎉 I will join Professor Dimitris Metaxas's group to pursue my PhD degree at Rutgers.
@@ -57,7 +57,7 @@ where “*” denotes equal contribution
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/projects/mmneedle.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/projects/mmneedle.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multimodal needle in a haystack: Benchmarking long-context capability of multimodal large language models](https://aclanthology.org/2025.naacl-long.166.pdf)  
@@ -84,6 +84,7 @@ Hengyi Wang, Haizhou Shi, Shiwei Tan, Weiyi Qin, Wenyuan Wang, **Tunyu Zhang**, 
 
 
 # 📖 Educations
+- *2025.09 - present*, Rutgers University, New Brunswick.
 - *2021.09 - 2025.06*, Univeristy of Science and Technology of China, Hefei.
 
 
@@ -92,6 +93,7 @@ Hengyi Wang, Haizhou Shi, Shiwei Tan, Weiyi Qin, Wenyuan Wang, **Tunyu Zhang**, 
 
 
 # 💻 Internships
+- *2026.07 - present*, Research Intern at Red Hat AI Innovation
 - *2024.06 - 2025.08*, Research Assistant at Rutgers University
 - *2023.06 - 2024.05*, Research Assistant at University of Hong Kong (HKU)
 
