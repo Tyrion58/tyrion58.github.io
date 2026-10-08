@@ -117,7 +117,7 @@ Hengyi Wang, Haizhou Shi, Shiwei Tan, Weiyi Qin, Wenyuan Wang, **Tunyu Zhang**, 
 
 
 # 📚 Teaching
-Rutgers University
+**Teaching Assistant**, Rutgers University
 
 - **Fall 2026** — [CS 440: Introduction to Artificial Intelligence](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-440-introduction-to-artificial-intelligence)
 - **Spring 2026** — [CS 440: Introduction to Artificial Intelligence](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-440-introduction-to-artificial-intelligence)
