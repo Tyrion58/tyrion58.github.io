@@ -20,6 +20,7 @@ redirect_from:
 My name is Tunyu Zhang (张焞宇). I am a second-year Ph.D. student in the Department of Computer Science at Rutgers University, advised by Professor [Dimitris Metaxas](https://www.cs.rutgers.edu/~dnm/). I am also fortunate to collaborate with Professor [Hao Wang](http://www.wanghao.in/). My research focuses on trustworthy and efficient language model systems, including uncertainty estimation in LLM reasoning and efficient decoding for diffusion language models. Previously, I obtained my bachelor’s degree from the University of Science and Technology of China (USTC) in 2025.
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉 Three papers accepted to **NeurIPS 2026**: [T3D](https://arxiv.org/abs/2602.12262) on few-step diffusion language models, [SAUCE](https://arxiv.org/abs/2610.08901) on multi-agent uncertainty estimation, and [When Debate Helps](https://arxiv.org/abs/2610.04686v1) on effective multi-agent reasoning!
 - *2026.07*: &nbsp;🚀 I joined Red Hat AI Innovation <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" alt="Red Hat logo" style="height: 1em; vertical-align: -0.2em; margin: 0 3px;">  as a Research Intern.
 - *2026.01*: &nbsp;🎉 Our paper *TokUR* was accepted to ICLR 2026
 - *2025.09*: &nbsp;🎉 Our paper *TokUR* on Bayesian LLM reasoning was accepted to the [NeurIPS 2025 Workshop FoRLM](https://reasoning-workshop.github.io/)!
@@ -28,16 +29,42 @@ My name is Tunyu Zhang (张焞宇). I am a second-year Ph.D. student in the Depa
 # 📝 Publications 
 where “*” denotes equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/projects/t3d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/projects/turbo-harness.png' alt="Turbo Harness generates different harness patches for individual task instances" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[T3D: Trajectory Self-Distillation via Direct Discriminative Optimization for Efficient Diffusion Language Models](https://arxiv.org/abs/2602.12262)  
-**Tunyu Zhang\***, Xinxi Zhang\*, Ligong Han, Haizhou Shi, Xiaoxiao He, Zhuowei Li, Hao Wang, Kai Xu, Akash Srivastava, Hao Wang, Vladimir Pavlovic, Dimitris Metaxas  
+[Turbo Harness: Instance-Adaptive Harness Optimization](https://arxiv.org/abs/2609.40330)  
+**Tunyu Zhang\***, Hao Wang\*, Kai Xu, Dimitris N. Metaxas  
+[**Paper**](https://arxiv.org/abs/2609.40330) | [**Code**](https://github.com/Tyrion58/turbo-harness)
+- **Turbo Harness** tailors an agent's harness to each task instance, turning past optimization experience into better agent execution.
+- A lightweight, RL-trained **harness editor** uses a reusable playbook to patch a globally optimized harness, with just one editor call per task.
+- Improves performance across **seven benchmarks** spanning interactive agents, software engineering, and long-horizon terminal tasks, while often reducing execution steps and costs.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/projects/sauce.png' alt="SAUCE Figure 4: Bayesian filtering updates latent system beliefs from agent observations to estimate uncertainty" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Sequential Probabilistic Uncertainty Estimation for Parallel Multi-Agent Reasoning Systems](https://arxiv.org/abs/2610.08901)  
+**Tunyu Zhang**, Zihao Zhao, Yusong Zhao, Haizhou Shi, Zhuohang Li, Haoxian Chen, Hao Wang, Dimitris N. Metaxas  
+[**Paper**](https://arxiv.org/abs/2610.08901) | [**Code**](https://github.com/Tyrion58/SAUCE) | [**Data**](https://huggingface.co/datasets/Tyrion279/SAUCE-Qwen3-4B-Rollouts)
+- **SAUCE** estimates the reliability of multi-agent reasoning by tracking how consensus evolves throughout an interaction.
+- Combines agent agreement and generation uncertainty in a **training-free sequential estimator**, using existing inference traces without extra sampling.
+- Improves **error detection, selective prediction, and calibration** across five model backbones, five benchmarks, and two multi-agent protocols.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/projects/t3d.png' alt="T3D trajectory self-distillation for few-step diffusion language models" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Few-Step Diffusion Language Models via Trajectory Self-Distillation](https://arxiv.org/abs/2602.12262)  
+**Tunyu Zhang\***, Xinxi Zhang\*, Ligong Han, Haizhou Shi, Xiaoxiao He, Zhuowei Li, Hao Wang, Kai Xu, Akash Srivastava, Chengzhi Mao, Hao Wang, Vladimir Pavlovic, Dimitris N. Metaxas  
 <!-- <strong><span class='show_paper_citations' data='XXXX'></span></strong>   -->
 [**Paper**](https://arxiv.org/abs/2602.12262) | [**Code**](https://github.com/Tyrion58/T3D) | [**Slides**](files/t3d_talk.pdf)
-- **T3D** is a training framework for **efficient diffusion language models** via *trajectory self-distillation*.  
-- T3D uses **Direct Discriminative Optimization (DDO)** to replace mode-covering objectives with a mode-seeking training signal.  
-- The framework enables **aggressive few-step generation** while preserving full-step diffusion capabilities and reasoning performance.
+- **T3D** enables high-quality text generation in fewer diffusion steps by distilling a full-step teacher's **generative trajectory** into a few-step student.
+- Trajectory supervision reduces **token factorization error**, while **Direct Discriminative Optimization (DDO)** further strengthens reasoning through a mode-seeking objective.
+- Substantially closes the quality gap between **few-step and full-step decoding** on reasoning and code generation while preserving full-step performance.
 
 </div>
 </div>
@@ -53,6 +80,19 @@ where “*” denotes equal contribution
 - We propose **TokUR**, a framework for *token-level uncertainty estimation* tailored for **LLM reasoning**.  
 - TokUR introduces a low-rank stochastic perturbation mechanism to approximate predictive distributions efficiently.  
 - The framework enables more reliable multi-step reasoning, and provides uncertainty-aware signals for downstream tasks.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/projects/when-debate-helps.png' alt="Diverse agent proposals and verification-aware debate recover correct answers missed by majority voting" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[When Debate Helps: Proposal Supply and Verification-Aware Readout in Multi-Agent Reasoning](https://arxiv.org/abs/2610.04686v1)  
+Zihao Zhao, **Tunyu Zhang**, Haizhou Shi, Yusong Zhao, Xinxi Zhang, Hao Wang  
+[**Paper**](https://arxiv.org/abs/2610.04686v1) | [**Code**](https://github.com/Wang-ML-Lab/when-debate-helps)
+- Explains **when multi-agent debate outperforms majority voting**: agents must propose a correct answer, and the final decision must recognize it even when it comes from a minority.
+- Introduces **Latent Verification Debate (LVD)** to model how verification evidence helps recover correct proposals that voting misses.
+- Selects agents with **complementary answer coverage**, improving reasoning accuracy across two model backbones under matched inference budgets.
 
 </div>
 </div>
@@ -76,6 +116,14 @@ Hengyi Wang, Haizhou Shi, Shiwei Tan, Weiyi Qin, Wenyuan Wang, **Tunyu Zhang**, 
 
 
 
+# 📚 Teaching
+Rutgers University
+
+- **Fall 2026** — [CS 440: Introduction to Artificial Intelligence](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-440-introduction-to-artificial-intelligence)
+- **Spring 2026** — [CS 440: Introduction to Artificial Intelligence](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-440-introduction-to-artificial-intelligence)
+- **Fall 2025** — [CS 344: Design and Analysis of Computer Algorithms](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-344-design-and-analysis-of-computer-algorithms)
+
+
 # 🎖 Honors and Awards
 - **2025.06** Outstanding Undergraduate Thesis Award, University of Science and Technology of China
 - **2022.12** Second Prize, Asia and Pacific Mathematical Contest in Modeling (APMCM)
@@ -96,4 +144,3 @@ Hengyi Wang, Haizhou Shi, Shiwei Tan, Weiyi Qin, Wenyuan Wang, **Tunyu Zhang**, 
 - *2026.07 - present*, Research Intern at Red Hat AI Innovation
 - *2024.06 - 2025.08*, Research Assistant at Rutgers University
 - *2023.06 - 2024.05*, Research Assistant at University of Hong Kong (HKU)
-
